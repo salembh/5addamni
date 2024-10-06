@@ -4,6 +4,8 @@
 
 <h2 align="left">An under developpment hiring website to make your life easier and better with more opportunities</h2>
 
+###
+
 <h4 align="left">Our main focus is for you to apply for a job And for you to post your own profile so employers can hire you,<br>This gives You the opportunity to chose between multiple jobs and select as your liking</h4>
 
 ###
